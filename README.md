@@ -21,7 +21,7 @@ DNS Python library (install via pip install dnspython)
 Installation
 
 # Clone the repository:
-git clone https://github.com/antitop1/SubBrute.git
+git clone https://github.com/antitop1/SubBruter.git
 
 # Navigate to the directory:
 cd SubBrute
